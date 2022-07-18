@@ -1,0 +1,84 @@
+
+.box{
+
+  border-style:solid;
+  font-family: 'Mingzat', sans-sarif;
+  
+} 
+
+.container_12{
+	background-color:#F0E4F5;
+	margin-top:40px;
+
+}
+.banner{
+	text-align:center;
+	font-size:55px;
+	font-weight:bold;
+	color:#AD27DC;
+}
+.cover{
+	margin-top:10px;
+}
+
+.menu{
+	/*border-style:solid;*/
+	text-align:center;
+	margin-top:5px;
+	background-color:#AD27DC;
+	
+}
+
+.menu a{
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+	display:block;
+}
+.section{
+	height:40px;
+	/*border-style:solid;*/
+	margin-top:10px;
+	background-color:#AD27DC;
+	text-align:center;
+	color:white;
+	font-weight:bold;
+	
+}
+
+.eproduct{
+	/*border-style:solid;*/
+	margin-top:10px;
+	height:300px;
+}
+
+.eprice{
+	/*border-style:solid;*/
+	background-color:#FD7B1A;
+	color:white;
+	font-weight:bold;
+}
+
+.btn_eproduct{
+	margin-left:60px;
+	border-width:0px;
+	background-color:#2F8D14;
+	color:white;
+	border-radius:3px;
+	font-weight:bold;
+}
+.contact{
+	
+	 margin-top:10px;
+}
+
+.footer{
+	height:200px;
+	/*border-style:solid;*/
+	margin-top:20px;
+	background-color:#AD27DC;
+	text-align:center;
+	color:white;
+	font-weight:bold;
+	
+}
